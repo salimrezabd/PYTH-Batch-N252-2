@@ -1,0 +1,1 @@
+print("Python language is my only favorite language.")
